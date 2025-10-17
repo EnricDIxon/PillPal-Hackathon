@@ -1,2 +1,2 @@
 # PillPal-Hackathon
-A Hackathon Project
+A Hackathon project
